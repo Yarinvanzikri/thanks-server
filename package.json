@@ -1,0 +1,11 @@
+{
+  "name": "thanks-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "thanks-server.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A\u001b[B\u001b[B"
+  },
+  "author": "",
+  "license": "ISC"
+}
